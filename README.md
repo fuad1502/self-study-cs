@@ -53,7 +53,7 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 1.0   | Object Oriented Programming       | Head First Java                              |              | 🟢         |
 | 1.1   | Design Patterns                   | Head First Design Patterns                   | 1.0          | 🟢         |
 | 1.2   | Database Application              | Database Management Systems                  | 0.2          | 🟢         |
-| 1.3   | Best Practices                    | Clean Code                                   |              | 🟡         |
+| 1.3   | Software Craftmanship             | Clean Code                                   |              | 🟡         |
 | 3     | **Advanced Computer Systems**     |                                              |              |            |
 | 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces         | 0.1          | 🟡         |
 | 3.1   | Linux                             | The Linux Programming Interface              | 3.0          | ⚫         |
