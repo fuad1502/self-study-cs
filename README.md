@@ -51,12 +51,13 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 0.6   | Automata Theory                   | Introduction to Automata Theory              |              | ⚫         |
 | 1     | **Software Engineering**          |                                              |              |            |
 | 1.0   | Object Oriented Programming       | Head First Java                              |              | 🟢         |
-| 1.1   | Design Pattern                    | Head Design Patterns                         | 1.0          | 🟢         |
+| 1.1   | Design Patterns                   | Head First Design Patterns                   | 1.0          | 🟢         |
 | 1.2   | Best Practices                    | Clean Code                                   |              | 🟡         |
 | 3     | **Advanced Computer Systems**     |                                              |              |            |
 | 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces         | 0.1          | 🟡         |
-| 3.1   | Database                          | Database Management Systems                  | 0.2          | 🟡         |
-| 3.2   | Distributed Systems               | Designing Data Intensive Systems             | 3.1          | ⚫         |
+| 3.1   | Database Application              | Database Management Systems                  | 0.2          | 🟢         |
+| 3.2   | Database Implementation           | Database Management Systems                  |              | ⚫         |
+| 3.3   | Distributed Systems               | Designing Data Intensive Systems             | 3.1          | ⚫         |
 | 4     | **Computer Hardware**             |                                              |              |            |
 | 4.0   | RTL Design                        | SystemVerilog for Simulation & Syntehsis     |              | 🟢         |
 | 4.1   | RTL Verification                  | SystemVerilog for Verification               | 4.0          | ⚫         |
