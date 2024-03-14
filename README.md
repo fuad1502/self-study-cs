@@ -56,8 +56,9 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 1.3   | Best Practices                    | Clean Code                                   |              | 🟡         |
 | 3     | **Advanced Computer Systems**     |                                              |              |            |
 | 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces         | 0.1          | 🟡         |
-| 3.1   | Database Implementation           | Database Management Systems                  | 1.2          | ⚫         |
-| 3.2   | Distributed Systems               | Designing Data Intensive Systems             | 1.2          | ⚫         |
+| 3.1   | Linux                             | The Linux Programming Interface              | 3.0          | ⚫         |
+| 3.2   | Database Implementation           | Database Management Systems                  | 1.2          | ⚫         |
+| 3.3   | Distributed Systems               | Designing Data Intensive Systems             | 1.2          | ⚫         |
 | 4     | **Computer Hardware**             |                                              |              |            |
 | 4.0   | RTL Design                        | SystemVerilog for Simulation & Syntehsis     |              | 🟢         |
 | 4.1   | RTL Verification                  | SystemVerilog for Verification               | 4.0          | ⚫         |
