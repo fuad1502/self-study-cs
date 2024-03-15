@@ -56,7 +56,7 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces         | 0.1          | 🟡         |
 | 3.1   | Linux                             | The Linux Programming Interface              | 3.0          | ⚫         |
 | 3.2   | Database Implementation           | Database Management Systems                  | 1.2          | ⚫         |
-| 3.3   | Distributed Systems               | Designing Data Intensive Systems             | 1.2          | ⚫         |
+| 3.3   | Distributed Systems               | Designing Data Intensive Applications        | 1.2          | ⚫         |
 | 4     | **Computer Hardware**             |                                              |              |            |
 | 4.0   | RTL Design                        | SystemVerilog for Simulation & Syntehsis     |              | 🟢         |
 | 4.1   | RTL Verification                  | SystemVerilog for Verification               | 4.0          | ⚫         |
@@ -99,8 +99,8 @@ specific target industry, and requires knowledge on various technologies.
 **Exercises** on the other hand are small close ended problems that are
 specifically designed to test and solidify your knowledge on a very specific
 topic, sometimes in a *prepared* learning environment. In contrast to projects,
-the resulting code itself *usually* don't have much practical outside of the
-learning environment.
+the resulting code itself *usually* don't have much practical use outside of
+the learning environment.
 
 **Both are essential for learning**. Most of the time, you need to do some
 exercises before diving into a project. Just doing exercises will deprive you
