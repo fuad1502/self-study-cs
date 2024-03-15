@@ -1,5 +1,7 @@
 # Self Study CS
 
+## What's this repository for?
+
 ## Background
 I am an Electrical Engineering graduate and have been working in the *RF /
 electronics / embedded* industry for over 4 years. However, after finally
@@ -78,12 +80,70 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 8.0.2 | C                                 | The ANSI C Programming Language              |              | 🟢         |
 | 8.0.3 | Go                                | A Tour of Go                                 |              | 🟢         |
 | 8.0.4 | Java                              | Effective Java                               |              | 🟡         |
+| 8.0.6 | Any FP Language                   |                                              |              | ⚫         |
 | 8.1   | *Library / Framework*             |                                              |              |            |
-| 8.1.0 | React                             | Learn React                                  |              | 🟢         |
+| 8.1.0 | React                             | Learn React                                  | 8.0.0        | 🟢         |
+| 8.2   | *DevOps Tools*                    |                                              |              |            |
+| 8.2.0 | Docker / Podman                   | Docker Guides                                |              | 🟢         |
+| 8.2.1 | Make                              | Makefile Tutorial By Example                 |              | 🟢         |
+| 8.2.2 | CMake                             | CMake Tutorial                               |              | 🟢         |
 
-* *Algorithms is not listed in any of the dependency lists, altough it is
-  assumed that the Algorithms reference is already read with at least 50%
-  progress.*
+\* *Algorithms is not listed in any of the dependency lists, altough it is
+assumed that the Algorithms reference is already read with at least 50%
+progress before moving on to other topics.*
+
+## Projects & Exercises
+**To really solidify the knowledge of what you've learned**, you'll have to use
+that knowledge to solve problems by writing some code. I categorize two ways
+that you can do this, by doing projects and exercises. 
+
+**Projects** are usually larger, strikes close to what you might actually do in a
+specific target industry, and requires knowledge on various technologies.
+
+**Exercises** on the other hand are small close ended problems that are
+specifically designed to test and solidify your knowledge on a very specific
+topic, sometimes in a *prepared* learning environment. In contrast to projects,
+the resulting code itself *usually* don't have much practical outside of the
+learning environment.
+
+**Both are essential for learning**. Most of the time, you need to do some
+exercises before diving into a project. Just doing exercises will deprive you
+of a holistic view and practical skills, but just doing projects will deprive
+you of really understanding specific things that might otherwise be lost in
+abstractions, and therefore hinder your ability to tackle the project.
+
+### Projects
+Started and finished (is it ever finished?) projects have an entry in the
+repository column.
+
+| Project Problem Statement                              | Repository                            | Related Topics                           | Target Industry           |
+|------------------------------------------------------- | ------------------------------------- | ---------------------------------------- | ------------------------- |
+| Develop a typing test Web Application                  | <https://github.com/fuad1502/kibi>    | 8.0.0, 8.1.0\*                           | Frontend Web Development  |
+| Develop & deploy your own Social Media Web Application | <https://github.com/fuad1502/bilbob>  | 0.2, 1.2, 8.0.0, 8.0.3\*, 8.1.0\*, 8.2.0 | Backend Web Development   |
+| Implement a pipelined RISC-V CPU                       | <https://github.com/fuad1502/rvsv>    | 0.1, 4.0                                 | Hardware                  |
+| Implement a RISC-V Assembler                           | <https://github.com/fuad1502/rubbler> | 0.1, 5.0, 8.0.1\*                        | Systems                   |
+| Implement Lox in a language other than Java\*          | <https://github.com/fuad1502/ceplox>  | 5.0, 8.0.2\*                             | Languages                 |
+
+\* You can use any programming language of your choosing.
+
+### Exercises
+
+| Exercise                                                      | Repository                                             | Related Topics    |
+| ------------------------------------------------------------- | ------------------------------------------------------ | ----------------- |
+| Wrote Design Pattern examples in a language other than Java\* | <https://github.com/fuad1502/head_first_rust_patterns> | 1.0, 1.1, 8.0.1\* |
+| Solve LeetCode problems using multiple languages              | <https://leetcode.com>                                 | 0.0, 8.0.\*       |
+| Participate in *Advent of Code* using multiple languages      | <https://github.com/fuad1502/advent_of_code_2023>      | 8.0.\*            |
+| Do the lab assignments from the Computer Systems reference    | <https://github.com/fuad1502/csapp>                    | 0.1               |
+| Do the *projects* from the Operating Systems reference        | <https://github.com/fuad1502/ostep>                    | 3.0               |
+| Do the *exercises* from each book references                  | \*                                                     | \*                |
+
+\* A repository containing my solutions to selected exercises from several book references is given here:
+
+| Book Reference                               | Repository                           |
+|--------------------------------------------- | ------------------------------------ |
+| Algorithm Design Manual                      | <https://github.com/fuad1502/skiena> |
+| Computer Systems: A Programmer's Perspective | <https://github.com/fuad1502/csapp>  |
+| Operating Systems: Three Easy Pieces         | <https://github.com/fuad1502/ostep>  |
 
 ## Topics Breakdown
 
