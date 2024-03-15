@@ -1,6 +1,11 @@
 # Self Study CS
 
 ## What's this repository for?
+Originally, I created this repository for showing potential recruiters what
+I've been doing in my ~8 months career gap. However, I quickly realized that
+this would also be useful to anyone out there who also found themselves wanting
+to study everything there is in the computer science field of study by
+themselves.
 
 ## Background
 I am an Electrical Engineering graduate and have been working in the hardware
@@ -8,16 +13,16 @@ I am an Electrical Engineering graduate and have been working in the hardware
 finally getting my dream job abroad at *Keysight Technologies* Malaysia, I
 resigned after only working for a shy of 2 years due to some personal reasons.
 At that point, I also realized that I am more suited to pursue a career that
-allows me to work remotely. Along with [other reasons]() I wont be elaborating
-here, **I realized that I want to be in the computing industry.**
+allows me to work remotely. Along with [other reasons]() that I wont be
+discussing here, **I realized that I want to be in the computing industry.**
 
-However, scrapping away all of my previous knowledge and experience to start
-from basically "zero" is not easy. Moreover, I don't want to only have practical
-skills that would get me an interview quickly without having a solid
-understanding of the fundamentals. From my experience, having a holistic view of
-your field of study is the upmost important thing in mastering your field of
-study. That's why I searched for a "self study CS curriculum". And if you're
-like me, you'll stumble upon [**Teach Yourself Computer
+However, scrapping away (almost) all of my previous knowledge and 4 years of
+experience to start from basically "zero" is not easy. Moreover, I don't want
+to only have practical skills that would get me an interview quickly without
+having a solid understanding of the fundamentals. From my experience, having a
+holistic view of your field of study is the upmost important thing in mastering
+your field of study. That's why I searched for a "self study CS curriculum".
+And if you're like me, you'll stumble upon [**Teach Yourself Computer
 Science**](https://teachyourselfcs.com/). **That is the main source for my self
 study journey.**
 
