@@ -3,17 +3,13 @@
 ## What's this repository for?
 
 ## Background
-I am an Electrical Engineering graduate and have been working in the *RF /
-electronics / embedded* industry for over 4 years. However, after finally
-getting my dream job abroad at *Keysight Technologies* Malaysia, I resigned
-after only working for a shy of 2 years due to some personal reason. At that
-point, I also realized that I am more suited to pursue a career that allows me
-to work remotely, where I can stay close to my support systems yet not limiting
-my growth by only allowing myself to work at local companies. **That's when I
-realized that I want to be in the computing industry.**
-
-There are other reasons why I think I am more suited to the **computing
-industry**, but I will not get into it here, read [here]() if you're curious.
+I am an Electrical Engineering graduate and have been working in the hardware
+(*RF / electronics / embedded*) industry for over 4 years. However, after
+finally getting my dream job abroad at *Keysight Technologies* Malaysia, I
+resigned after only working for a shy of 2 years due to some personal reasons.
+At that point, I also realized that I am more suited to pursue a career that
+allows me to work remotely. Along with [other reasons]() I wont be elaborating
+here, **I realized that I want to be in the computing industry.**
 
 However, scrapping away all of my previous knowledge and experience to start
 from basically "zero" is not easy. Moreover, I don't want to only have practical
@@ -121,7 +117,10 @@ repository column.
 | Develop a typing test Web Application                  | <https://github.com/fuad1502/kibi>    | 8.0.0, 8.1.0\*                           | Frontend Web Development  |
 | Develop & deploy your own Social Media Web Application | <https://github.com/fuad1502/bilbob>  | 0.2, 1.2, 8.0.0, 8.0.3\*, 8.1.0\*, 8.2.0 | Backend Web Development   |
 | Implement a pipelined RISC-V CPU                       | <https://github.com/fuad1502/rvsv>    | 0.1, 4.0                                 | Hardware                  |
-| Implement a RISC-V Assembler                           | <https://github.com/fuad1502/rubbler> | 0.1, 5.0, 8.0.1\*                        | Systems                   |
+| Implement an out of order RISC-V CPU                   |                                       | 0.3, 4.2                                 | Hardware                  |
+| Implement a RISC-V Assembler                           | <https://github.com/fuad1502/rubbler> | 0.1, 5.0, 8.0.1\*                        | Systems, Languages        |
+| Implement your own RISC-V Kernel                       |                                       | 3.0                                      | Systems                   |
+| Implement your own Relational Database                 |                                       | 3.2                                      | Systems                   |
 | Implement Lox in a language other than Java\*          | <https://github.com/fuad1502/ceplox>  | 5.0, 8.0.2\*                             | Languages                 |
 
 \* You can use any programming language of your choosing.
