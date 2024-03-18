@@ -46,15 +46,15 @@ However, of course once you feel *confident* that you know the *crux* of each
 subdomain, you have to make a decision on what to focus on if you want to be
 technically successful. ***For me, I would like to focus on Systems***.
 
-The reason why I love *Systems* the most throughout my study, is because deep
-curiosity on seeing what's behind the abstraction, to see the complex machinery
-that make the systems that we all have taken for granted *just work*. That's
-actually the reason why 10 years ago I chose EE, but let's not [get into
+The reason why I love *Systems* the most throughout my study, is because of my
+deep curiosity on seeing what's behind the abstraction, to see the complex
+machinery that make the systems that we all have taken for granted *just work*.
+That's actually the reason why 10 years ago I chose EE, but let's not [get into
 that]() here. There are of course further specialization down this road, but
 for now, one level of specialization below *Computer Science* is good enough
 for me.
 
-## Overview
+## Self Study Curriculum Overview and My Progress
 Here is an overview of what I have and will learn throughout my self study
 jouney up till now (March 2024). Started studies with progress above 75% are
 marked with 🟢, started studies with progress above 25% and below 75% are
@@ -62,7 +62,7 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 
 **Note that some topics might get more sub topics with more knowledge acquired.**
 
-| ID    | Topic                             | [Reference](#reference)                      | Dependencies | Progress   |
+| ID    | Topic                             | [Reference](#reference)\*                    | Dependencies | Progress   |
 |-------|-----------------------------------|----------------------------------------------|--------------|------------|
 | 0     | **Computer Science Fundamentals** |                                              |              |            |
 | 0.0   | Algorithms*                       | Algorithm Design Manual                      |              | 🟡         |
@@ -108,6 +108,9 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 8.2.0 | Docker / Podman                   | Docker Guides                                |              | 🟢         |
 | 8.2.1 | Make                              | Makefile Tutorial By Example                 |              | 🟢         |
 | 8.2.2 | CMake                             | CMake Tutorial                               |              | 🟢         |
+
+\* Notice that most of my references are books. If you like online courses
+better, unfortunately you'll need to look it up yourself.
 
 \* *Algorithms is not listed in any of the dependency lists, altough it is
 assumed that the Algorithms reference is already read with at least 50%
