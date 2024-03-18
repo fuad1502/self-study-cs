@@ -2,7 +2,7 @@
 
 ## What's this repository for?
 Originally, I created this repository for showing potential recruiters what
-I've been doing in my ~8 months career gap. However, I quickly realized that
+I've been doing in my ~7 months career gap. However, I quickly realized that
 this would also be useful to anyone out there who also found themselves wanting
 to study everything there is in the computer science field of study by
 themselves.
