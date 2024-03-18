@@ -42,7 +42,7 @@ to do so to. The reasons are:
 - It simply is intelectually interesting to see how each of the specialization
   are related and interacts with one another from a holistic view.
 
-However, ofcourse once you feel *confident* that you know the *crux* of each
+However, of course once you feel *confident* that you know the *crux* of each
 subdomain, you have to make a decision on what to focus on if you want to be
 technically successful. ***For me, I would like to focus on Systems***.
 
