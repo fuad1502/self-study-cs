@@ -1,4 +1,4 @@
-# Self Study CS
+# Self Study CS: A self study guide to CS mastery 🧙‍♂️
 
  * [What's this repository for?](#whats-this-repository-for)
  * [Background](#background)
@@ -15,6 +15,10 @@ Originally, I created this repository to show potential recruiters what I've
 been doing in my ~7 months career gap. However, I quickly realized that this
 would also be useful to anyone out there who also found themselves wanting to
 study everything there is in the computer science field of study by themselves.
+
+> ⚠️ **Disclaimer**: I am by no means an expert in Computer Science, in fact, as you
+will soon read, I am meerly a novice. Any advice should be taken with a grain
+of salt.
 
 ## Background
 I am an Electrical Engineering graduate and have been working in the hardware
