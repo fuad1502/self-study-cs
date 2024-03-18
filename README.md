@@ -34,7 +34,7 @@ that additions, I came up with this self study checklist.**
 ## Specialization Plan
 Since the beginning of my journey, I have determined to at least scratch the
 surface of every sub domain there is in Computer Science. And I encourage you
-to do so to. The reason is:
+to do so to. The reasons are:
 - To remove bias when you have to make a decision on which specialization path to
   choose. 
 - You might found yourself needing to draw knowledge from multiple domains to
