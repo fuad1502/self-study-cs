@@ -72,55 +72,55 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 
 **Note that some topics might get more sub topics with more knowledge acquired.**
 
-| ID    | Topic                             | [Reference](#reference)\*                    | Dependencies | Progress   |
-|-------|-----------------------------------|----------------------------------------------|--------------|------------|
-| 0     | **Computer Science Fundamentals** |                                              |              |            |
-| 0.0   | Algorithms*                       | Algorithm Design Manual                      |              | 🟡         |
-| 0.1   | Computer Systems                  | Computer Systems: A Programmer's Perspective |              | 🟢         |
-| 0.2   | Computer Networks                 | Computer Networks: A Top Down Approach       |              | 🟡         |
-| 0.3   | Computer Architecture             | Computer Architecture                        |              | ⚫         |
-| 0.4   | Discrete Mathematics              | Mathematics for Computer Science             |              | 🟡         |
-| 0.5   | Programming                       | SICP                                         |              | ⚫         |
-| 0.6   | Automata Theory                   | Introduction to Automata Theory              |              | ⚫         |
-| 1     | **Software Engineering**          |                                              |              |            |
-| 1.0   | Object Oriented Programming       | Head First Java                              |              | 🟢         |
-| 1.1   | Design Patterns                   | Head First Design Patterns                   | 1.0          | 🟢         |
-| 1.2   | Database Application              | Database Management Systems                  | 0.2          | 🟢         |
-| 1.3   | Software Craftmanship             | Clean Code                                   |              | 🟡         |
-| 3     | **Advanced Computer Systems**     |                                              |              |            |
-| 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces         | 0.1          | 🟡         |
-| 3.1   | Linux                             | The Linux Programming Interface              | 3.0          | ⚫         |
-| 3.2   | Database Implementation           | Database Management Systems                  | 1.2          | ⚫         |
-| 3.3   | Distributed Systems               | Designing Data Intensive Applications        | 1.2          | ⚫         |
-| 4     | **Computer Hardware**             |                                              |              |            |
-| 4.0   | RTL Design                        | SystemVerilog for Simulation & Syntehsis     |              | 🟢         |
-| 4.1   | RTL Verification                  | SystemVerilog for Verification               | 4.0          | ⚫         |
-| 4.2   | Modern Processor Design           | Modern Processor Design                      | 0.1, 0.3     | ⚫         |
-| 5     | **Computer Languages**            |                                              |              |            |
-| 5.0   | Introduction to Interpreters      | Crafting Interpreters                        |              | 🟡         |
-| 5.1   | Compiler Theory                   | Compilers: Principles, Techniques, and Tools | 0.6, 5.0     | ⚫         |
-| 6     | **Computer Security**             |                                              |              |            |
-| 6.0   | Computer Security                 | Computer Security: Principles & Practice     | 0.1, 0.2     | ⚫         |
-| 7     | **Computer Graphics**             |                                              |              |            |
-| 7.0   | Computer Graphics                 | 3D Computer Graphics: A Mathematical Intro   |              | ⚫         |
-| 8     | **Technologies**                  |                                              |              |            |
-| 8.0   | *Programming Languages*           |                                              |              |            |
-| 8.0.0 | HTML / CSS / JS                   | MDN Learning Area                            |              | 🟢         |
-| 8.0.1 | Rust                              | The Rust Programming Language                |              | 🟢         |
-| 8.0.2 | C++                               | A Tour of C++                                |              | 🟡         |
-| 8.0.2 | C                                 | The ANSI C Programming Language              |              | 🟢         |
-| 8.0.3 | Go                                | A Tour of Go                                 |              | 🟢         |
-| 8.0.4 | Java                              | Effective Java                               |              | 🟡         |
-| 8.0.6 | Any FP Language                   |                                              |              | ⚫         |
-| 8.1   | *Library / Framework*             |                                              |              |            |
-| 8.1.0 | React                             | Learn React                                  | 8.0.0        | 🟢         |
-| 8.2   | *DevOps Tools*                    |                                              |              |            |
-| 8.2.0 | Docker / Podman                   | Docker Guides                                |              | 🟢         |
-| 8.2.1 | Make                              | Makefile Tutorial By Example                 |              | 🟢         |
-| 8.2.2 | CMake                             | CMake Tutorial                               |              | 🟢         |
+| ID    | Topic                             | [Reference](#reference)\*                     | Dependencies | Progress   |
+|-------|-----------------------------------|-----------------------------------------------|--------------|------------|
+| 0     | **Computer Science Fundamentals** |                                               |              |            |
+| 0.0   | Algorithms*                       | Algorithm Design Manual                       |              | 🟡         |
+| 0.1   | Computer Systems                  | Computer Systems: A Programmer's Perspective  |              | 🟢         |
+| 0.2   | Computer Networks                 | Computer Networking: A Top-Down Approach      |              | 🟡         |
+| 0.3   | Computer Architecture             | Computer Architecture: A Quantitative Approach|              | ⚫         |
+| 0.4   | Discrete Mathematics              | Mathematics for Computer Science              |              | 🟡         |
+| 0.5   | Programming                       | SICP                                          |              | ⚫         |
+| 0.6   | Automata Theory                   | Introduction to Automata Theory               |              | ⚫         |
+| 1     | **Software Engineering**          |                                               |              |            |
+| 1.0   | Object Oriented Programming       | Head First Java                               |              | 🟢         |
+| 1.1   | Design Patterns                   | Head First Design Patterns                    | 1.0          | 🟢         |
+| 1.2   | Database Application              | Database Management Systems                   | 0.2          | 🟢         |
+| 1.3   | Software Craftmanship             | Clean Code                                    |              | 🟡         |
+| 3     | **Advanced Computer Systems**     |                                               |              |            |
+| 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces          | 0.1          | 🟡         |
+| 3.1   | Linux                             | The Linux Programming Interface               | 3.0          | ⚫         |
+| 3.2   | Database Implementation           | Database Management Systems                   | 1.2          | ⚫         |
+| 3.3   | Distributed Systems               | Designing Data-Intensive Applications         | 1.2          | ⚫         |
+| 4     | **Computer Hardware**             |                                               |              |            |
+| 4.0   | RTL Design                        | RTL Modeling with SystemVerilog               |              | 🟢         |
+| 4.1   | RTL Verification                  | SystemVerilog for Verification                | 4.0          | ⚫         |
+| 4.2   | Modern Processor Design           | Modern Processor Design                       | 0.1, 0.3     | ⚫         |
+| 5     | **Computer Languages**            |                                               |              |            |
+| 5.0   | Introduction to Interpreters      | Crafting Interpreters                         |              | 🟡         |
+| 5.1   | Compiler Theory                   | Compilers: Principles, Techniques, and Tools  | 0.6, 5.0     | ⚫         |
+| 6     | **Computer Security**             |                                               |              |            |
+| 6.0   | Computer Security                 | Computer Security: Principles & Practice      | 0.1, 0.2     | ⚫         |
+| 7     | **Computer Graphics**             |                                               |              |            |
+| 7.0   | Computer Graphics                 | 3D Computer Graphics: A Mathematical Intro    |              | ⚫         |
+| 8     | **Technologies**                  |                                               |              |            |
+| 8.0   | *Programming Languages*           |                                               |              |            |
+| 8.0.0 | HTML / CSS / JS                   | MDN Learning Area                             |              | 🟢         |
+| 8.0.1 | Rust                              | The Rust Programming Language                 |              | 🟢         |
+| 8.0.2 | C++                               | Tour of C++                                   |              | 🟡         |
+| 8.0.2 | C                                 | The C Programming Language                    |              | 🟢         |
+| 8.0.3 | Go                                | A Tour of Go                                  |              | 🟢         |
+| 8.0.4 | Java                              | Effective Java                                |              | 🟡         |
+| 8.0.6 | Any FP Language                   |                                               |              | ⚫         |
+| 8.1   | *Library / Framework*             |                                               |              |            |
+| 8.1.0 | React                             | Learn React                                   | 8.0.0        | 🟢         |
+| 8.2   | *DevOps Tools*                    |                                               |              |            |
+| 8.2.0 | Docker / Podman                   | Docker Guides                                 |              | 🟢         |
+| 8.2.1 | Make                              | Makefile Tutorial By Example                  |              | 🟢         |
+| 8.2.2 | CMake                             | CMake Tutorial                                |              | 🟢         |
 
-\* Notice that most of my references are books. If you like online courses
-better, unfortunately you'll need to look it up yourself.
+\* *Notice that most of my references are books. If you like online courses
+better, unfortunately you'll need to look it up yourself.*
 
 \* *Algorithms is not listed in any of the dependency lists, altough it is
 assumed that the Algorithms reference is already read with at least 50%
@@ -161,7 +161,7 @@ repository column.
 | Implement your own Relational Database                 |                                       | 3.2                                      | Systems                   |
 | Implement Lox in a language other than Java\*          | <https://github.com/fuad1502/ceplox>  | 5.0, 8.0.2\*                             | Languages                 |
 
-\* You can use any programming language of your choosing.
+\* *You can use any programming language of your choosing.*
 
 ### Exercises
 
@@ -174,7 +174,7 @@ repository column.
 | Do the *projects* from the Operating Systems reference        | <https://github.com/fuad1502/ostep>                    | 3.0               |
 | Do the *exercises* from each book references                  | \*                                                     | \*                |
 
-\* A repository containing my solutions to selected exercises from several book references is given here:
+\* *A repository containing my solutions to selected exercises from several book references is given below*
 
 | Book Reference                               | Repository                           |
 |--------------------------------------------- | ------------------------------------ |
@@ -185,3 +185,33 @@ repository column.
 ## Topics Breakdown
 
 ## Reference
+- [The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0)
+- [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+- [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
+- [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/93cad640cf3ed0b23ef70688f452d4d5_MIT6_042JF10_notes.pdf)
+- [SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)
+- [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321455363)
+- [Head First Java](https://www.amazon.com/_/dp/1491910771?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20)
+- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-dp-149207800X/dp/149207800X/ref=dp_ob_title_bk)
+- [Database Management Systems](https://www.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [RTL Modeling with SystemVerilog for Simulation and Synthesis](https://www.amazon.com/RTL-Modeling-SystemVerilog-Simulation-Synthesis/dp/1546776346)
+- [SystemVerilog for Verification](https://www.amazon.com/SystemVerilog-Verification-Learning-Testbench-Language/dp/1461407141)
+- [Modern Processor Design: Fundamentals of Superscalar Processors](https://www.amazon.com/Modern-Processor-Design-Fundamentals-Superscalar/dp/1478607831)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+- [Computer Security: Principles and Practice](https://www.amazon.com/Computer-Security-Principles-Practice-4th/dp/0134794109)
+- [3D Computer Graphics: A Mathematical Introduction with OpenGL](https://www.amazon.com/3D-Computer-Graphics-Mathematical-Introduction/dp/0521821037)
+- [MDN Learning Area](https://developer.mozilla.org/en-US/docs/Learn)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Tour of C++](https://www.amazon.com/Tour-C-Bjarne-Stroustrup-dp-0136816487/dp/0136816487/ref=dp_ob_title_bk)
+- [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+- [A Tour of Go](https://go.dev/tour/welcome/1)
+- [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+- [Learn React](https://react.dev/learn)
+- [Docker Guides](https://docs.docker.com/get-started/)
+- [Makefile Tutorial By Example](https://makefiletutorial.com/)
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
