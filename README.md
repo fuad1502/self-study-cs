@@ -1,5 +1,15 @@
 # Self Study CS
 
+ * [What's this repository for?](#whats-this-repository-for)
+ * [Background](#background)
+ * [Specialization Plan](#specialization-plan)
+ * [Self Study Curriculum Overview and My Progress](#self-study-curriculum-overview-and-my-progress)
+ * [Projects & Exercises](#projects-exercises)
+    + [Projects](#projects)
+    + [Exercises](#exercises)
+ * [Topics Breakdown](#topics-breakdown)
+ * [Reference](#reference)
+
 ## What's this repository for?
 Originally, I created this repository to show potential recruiters what I've
 been doing in my ~7 months career gap. However, I quickly realized that this
