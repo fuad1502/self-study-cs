@@ -33,6 +33,27 @@ on current technologies to understand how the industry is running today. **With
 that additions, I came up with this self study checklist.**
 
 ## Specialization Plan
+Since the beginning of my journey, I have determined to at least scratch the
+surface of every sub domain there is in Computer Science. And I encourage you
+to do so to. The reason is:
+- To remove bias when you have to make a decision on which specialization path to
+  choose. 
+- You might found yourself needing to draw knowledge from multiple domains to
+  craft a solution / product.
+- It simply is intelectually interesting to see how each of the specialization
+  are related and interacts with one another from a holistic view.
+
+However, ofcourse once you feel *confident* that you know the *crux* of each
+subdomain, you have to make a decision on what to focus on if you want to be
+technically successful. ***For me, I would like to focus on Systems***.
+
+The reason why I love *Systems* the most throughout my study, is because deep
+curiosity on seeing what's behind the abstraction, to see the complex machinery
+that make the systems that we all have taken for granted *just work*. That's
+actually the reason why 10 years ago I chose EE, but let's not [get into
+that]() here. There are of course further specialization down this road, but
+for now, one level of specialization below *Computer Science* is good enough
+for me.
 
 ## Overview
 Here is an overview of what I have and will learn throughout my self study
