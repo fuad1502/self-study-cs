@@ -90,38 +90,43 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 1.0   | Object Oriented Programming       | Head First Java                               |              | 🟢         |
 | 1.1   | Design Patterns                   | Head First Design Patterns                    | 1.0          | 🟢         |
 | 1.2   | Database Application              | Database Management Systems                   | 0.2          | 🟢         |
-| 1.3   | Software Craftmanship             | Clean Code                                    |              | 🟡         |
+| 1.3   | Software Craftmanship             | Clean Code                                    | 1.1          | 🟡         |
 | 3     | **Advanced Computer Systems**     |                                               |              |            |
 | 3.0   | Operating Systems                 | Operating Systems: Three Easy Pieces          | 0.1          | 🟡         |
-| 3.1   | Linux                             | The Linux Programming Interface               | 3.0          | ⚫         |
-| 3.2   | Database Implementation           | Database Management Systems                   | 1.2          | ⚫         |
-| 3.3   | Distributed Systems               | Designing Data-Intensive Applications         | 1.2          | ⚫         |
-| 4     | **Computer Hardware**             |                                               |              |            |
-| 4.0   | RTL Design                        | RTL Modeling with SystemVerilog               |              | 🟢         |
-| 4.1   | RTL Verification                  | SystemVerilog for Verification                | 4.0          | ⚫         |
-| 4.2   | Modern Processor Design           | Modern Processor Design                       | 0.1, 0.3     | ⚫         |
-| 5     | **Computer Languages**            |                                               |              |            |
-| 5.0   | Introduction to Interpreters      | Crafting Interpreters                         |              | 🟡         |
-| 5.1   | Compiler Theory                   | Compilers: Principles, Techniques, and Tools  | 0.6, 5.0     | ⚫         |
-| 6     | **Computer Security**             |                                               |              |            |
-| 6.0   | Computer Security                 | Computer Security: Principles & Practice      | 0.1, 0.2     | ⚫         |
-| 7     | **Computer Graphics**             |                                               |              |            |
-| 7.0   | Computer Graphics                 | 3D Computer Graphics: A Mathematical Intro    |              | ⚫         |
-| 8     | **Technologies**                  |                                               |              |            |
-| 8.0   | *Programming Languages*           |                                               |              |            |
-| 8.0.0 | HTML / CSS / JS                   | MDN Learning Area                             |              | 🟢         |
-| 8.0.1 | Rust                              | The Rust Programming Language                 |              | 🟢         |
-| 8.0.2 | C++                               | Tour of C++                                   |              | 🟡         |
-| 8.0.2 | C                                 | The C Programming Language                    |              | 🟢         |
-| 8.0.3 | Go                                | A Tour of Go                                  |              | 🟢         |
-| 8.0.4 | Java                              | Effective Java                                |              | 🟡         |
-| 8.0.6 | Any FP Language                   |                                               |              | ⚫         |
-| 8.1   | *Library / Framework*             |                                               |              |            |
-| 8.1.0 | React                             | Learn React                                   | 8.0.0        | 🟢         |
-| 8.2   | *DevOps Tools*                    |                                               |              |            |
-| 8.2.0 | Docker / Podman                   | Docker Guides                                 |              | 🟢         |
-| 8.2.1 | Make                              | Makefile Tutorial By Example                  |              | 🟢         |
-| 8.2.2 | CMake                             | CMake Tutorial                                |              | 🟢         |
+| 3.1   | Systems Programming               | Advanced Programming in the UNIX Environment  | 0.1          | ⚫         |
+| 3.2   | Linux Kernel                      | Understanding the Linux Kernel                | 3.0          | ⚫         |
+| 3.3   | Database Implementation           | Database Management Systems                   | 1.2          | ⚫         |
+| 3.4   | Distributed Systems               | Designing Data-Intensive Applications         | 1.2          | 🟡         |
+| 4     | **Embedded Systems**              |                                               |              |            |
+| 4.0   | Embedded Systems Fundamentals     | Making Embedded Systems: Design Patterns      | 1.1          | 🟡         |
+| 4.1   | Real Time Operating Systems       | MicroC/OS-III The Real Time Kernel            | 0.1, 1.1     | ⚫         |
+| 4.2   | Embedded Linux                    | Embedded Linux Primer                         | 0.1, 1.1     | ⚫         |
+| 5     | **Computer Hardware**             |                                               |              |            |
+| 5.0   | RTL Design                        | RTL Modeling with SystemVerilog               |              | 🟢         |
+| 5.1   | RTL Verification                  | SystemVerilog for Verification                | 5.0          | ⚫         |
+| 5.2   | Modern Processor Design           | Modern Processor Design                       | 0.1, 0.3     | ⚫         |
+| 6     | **Computer Languages**            |                                               |              |            |
+| 6.0   | Introduction to Interpreters      | Crafting Interpreters                         |              | 🟡         |
+| 6.1   | Compiler Theory                   | Compilers: Principles, Techniques, and Tools  | 0.6, 6.0     | ⚫         |
+| 7     | **Computer Security**             |                                               |              |            |
+| 7.0   | Computer Security                 | Computer Security: Principles & Practice      | 0.1, 0.2     | ⚫         |
+| 8     | **Computer Graphics**             |                                               |              |            |
+| 8.0   | Computer Graphics                 | 3D Computer Graphics: A Mathematical Intro    |              | ⚫         |
+| 9     | **Technologies**                  |                                               |              |            |
+| 9.0   | *Programming Languages*           |                                               |              |            |
+| 9.0.0 | HTML / CSS / JS                   | MDN Learning Area                             |              | 🟢         |
+| 9.0.1 | Rust                              | The Rust Programming Language                 |              | 🟢         |
+| 9.0.2 | C++                               | Tour of C++                                   |              | 🟡         |
+| 9.0.2 | C                                 | The C Programming Language                    |              | 🟢         |
+| 9.0.3 | Go                                | A Tour of Go                                  |              | 🟢         |
+| 9.0.4 | Java                              | Effective Java                                |              | 🟡         |
+| 9.0.6 | Any FP Language                   |                                               |              | ⚫         |
+| 9.1   | *Library / Framework*             |                                               |              |            |
+| 9.1.0 | React                             | Learn React                                   | 9.0.0        | 🟢         |
+| 9.2   | *DevOps Tools*                    |                                               |              |            |
+| 9.2.0 | Docker / Podman                   | Docker Guides                                 |              | 🟢         |
+| 9.2.1 | Make                              | Makefile Tutorial By Example                  |              | 🟢         |
+| 9.2.2 | CMake                             | CMake Tutorial                                |              | 🟢         |
 
 \* *Notice that most of my references are books. If you like online courses
 better, unfortunately you'll need to look it up yourself.*
@@ -156,14 +161,14 @@ repository column.
 
 | Project Problem Statement                              | Repository                            | Related Topics                           | Target Industry           |
 |------------------------------------------------------- | ------------------------------------- | ---------------------------------------- | ------------------------- |
-| Develop a typing test Web Application                  | <https://github.com/fuad1502/kibi>    | 8.0.0, 8.1.0\*                           | Frontend Web Development  |
-| Develop & deploy your own Social Media Web Application | <https://github.com/fuad1502/bilbob>  | 0.2, 1.2, 8.0.0, 8.0.3\*, 8.1.0\*, 8.2.0 | Backend Web Development   |
-| Implement a pipelined RISC-V CPU                       | <https://github.com/fuad1502/rvsv>    | 0.1, 4.0                                 | Hardware                  |
-| Implement an out of order RISC-V CPU                   |                                       | 0.3, 4.2                                 | Hardware                  |
-| Implement a RISC-V Assembler                           | <https://github.com/fuad1502/rubbler> | 0.1, 5.0, 8.0.1\*                        | Systems, Languages        |
+| Develop a typing test Web Application                  | <https://github.com/fuad1502/kibi>    | 9.0.0, 8.1.0\*                           | Frontend Web Development  |
+| Develop & deploy your own Social Media Web Application | <https://github.com/fuad1502/bilbob>  | 0.2, 1.2, 9.0.0, 9.0.3\*, 9.1.0\*, 9.2.0 | Backend Web Development   |
+| Implement a pipelined RISC-V CPU                       | <https://github.com/fuad1502/rvsv>    | 0.1, 5.0                                 | Hardware                  |
+| Implement an out of order RISC-V CPU                   |                                       | 0.3, 5.2                                 | Hardware                  |
+| Implement a RISC-V Assembler                           | <https://github.com/fuad1502/rubbler> | 0.1, 6.0, 9.0.1\*                        | Systems, Languages        |
 | Implement your own RISC-V Kernel                       |                                       | 3.0                                      | Systems                   |
 | Implement your own Relational Database                 |                                       | 3.2                                      | Systems                   |
-| Implement Lox in a language other than Java\*          | <https://github.com/fuad1502/ceplox>  | 5.0, 8.0.2\*                             | Languages                 |
+| Implement Lox in a language other than Java\*          | <https://github.com/fuad1502/ceplox>  | 6.0, 9.0.2\*                             | Languages                 |
 
 \* *You can use any programming language of your choosing.*
 
@@ -171,9 +176,9 @@ repository column.
 
 | Exercise                                                      | Repository                                             | Related Topics    |
 | ------------------------------------------------------------- | ------------------------------------------------------ | ----------------- |
-| Wrote Design Pattern examples in a language other than Java\* | <https://github.com/fuad1502/head_first_rust_patterns> | 1.0, 1.1, 8.0.1\* |
-| Solve LeetCode problems using multiple languages              | <https://leetcode.com>                                 | 0.0, 8.0.\*       |
-| Participate in *Advent of Code* using multiple languages      | <https://github.com/fuad1502/advent_of_code_2023>      | 8.0.\*            |
+| Wrote Design Pattern examples in a language other than Java\* | <https://github.com/fuad1502/head_first_rust_patterns> | 1.0, 1.1, 9.0.1\* |
+| Solve LeetCode problems using multiple languages              | <https://leetcode.com>                                 | 0.0, 9.0.\*       |
+| Participate in *Advent of Code* using multiple languages      | <https://github.com/fuad1502/advent_of_code_2023>      | 9.0.\*            |
 | Do the lab assignments from the Computer Systems reference    | <https://github.com/fuad1502/csapp>                    | 0.1               |
 | Do the *projects* from the Operating Systems reference        | <https://github.com/fuad1502/ostep>                    | 3.0               |
 | Do the *exercises* from each book references                  | \*                                                     | \*                |
@@ -219,3 +224,8 @@ repository column.
 - [Docker Guides](https://docs.docker.com/get-started/)
 - [Makefile Tutorial By Example](https://makefiletutorial.com/)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [Advanced Programming in the UNIX Environment](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
+- [Understanding the Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
+- [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-dp-1098151542/dp/1098151542/ref=dp_ob_title_bk)
+- [MicroC/OS-III Real Time Kernel](https://www.amazon.com/uC-OS-III-Real-Time-Jean-Labrosse/dp/0982337531)
+- [Embedded Linux Primer](https://www.amazon.com/Embedded-Linux-Primer-Practical-Real-World/dp/0137017839)
