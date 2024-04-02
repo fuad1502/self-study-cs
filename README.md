@@ -123,6 +123,7 @@ marked with 🟡, while studies not yet started are marked with ⚫.
 | 9.0.6 | Any FP Language                   |                                               |              | ⚫         |
 | 9.1   | *Library / Framework*             |                                               |              |            |
 | 9.1.0 | React                             | Learn React                                   | 9.0.0        | 🟢         |
+| 9.1.1 | Zephyr                            | Zephyr Docs                                   |              | 🟡         |
 | 9.2   | *DevOps Tools*                    |                                               |              |            |
 | 9.2.0 | Docker / Podman                   | Docker Guides                                 |              | 🟢         |
 | 9.2.1 | Make                              | Makefile Tutorial By Example                  |              | 🟢         |
@@ -168,6 +169,7 @@ repository column.
 | Implement a RISC-V Assembler                           | <https://github.com/fuad1502/rubbler> | 0.1, 6.0, 9.0.1\*                        | Systems, Languages        |
 | Implement your own RISC-V Kernel                       |                                       | 3.0                                      | Systems                   |
 | Implement your own Relational Database                 |                                       | 3.2                                      | Systems                   |
+| Design a GPS Running Watch                             |                                       | 4.0, 4.1, 9.1.1                          | Systems                   |
 | Implement Lox in a language other than Java\*          | <https://github.com/fuad1502/ceplox>  | 6.0, 9.0.2\*                             | Languages                 |
 
 \* *You can use any programming language of your choosing.*
@@ -225,6 +227,7 @@ repository column.
 - [Makefile Tutorial By Example](https://makefiletutorial.com/)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 - [Advanced Programming in the UNIX Environment](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
+- [Zephyr Docs](https://docs.zephyrproject.org/latest/)
 - [Understanding the Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)
 - [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-dp-1098151542/dp/1098151542/ref=dp_ob_title_bk)
 - [MicroC/OS-III Real Time Kernel](https://www.amazon.com/uC-OS-III-Real-Time-Jean-Labrosse/dp/0982337531)
