@@ -72,7 +72,8 @@ for me.
 Here is an overview of what I have and will learn throughout my self study
 jouney up till now (March 2024). Started studies with progress above 75% are
 marked with 🟢, started studies with progress above 25% and below 75% are
-marked with 🟡, while studies not yet started are marked with ⚫.
+marked with 🟡, while studies with progress below 25% or not yet started are
+marked with ⚫.
 
 **Note that some topics might get more sub topics with more knowledge acquired.**
 
